@@ -1,2 +1,2 @@
 # WPFSteuerelemente
-Sammlung von steuerelementen
+Sammlung von Steuerelementen
